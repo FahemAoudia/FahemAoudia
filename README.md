@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Salut 👋 ! Je m'appelle Aoudia Fahem et je suis un développeur web et en intelligence artificielle, de Montréal</h1>
+<h1 align="center">Salut 👋 ! Je m'appelle Fahem Aoudia et je suis un développeur web et en intelligence artificielle, de Montréal</h1>
 
 ###
 
