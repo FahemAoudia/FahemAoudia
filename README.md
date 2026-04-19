@@ -73,21 +73,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahemAoudia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aoudiafahem/aoudiafahem/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aoudiafahem/aoudiafahem/output/github-snake.svg" />
 </picture>
 
-
-
-<p align="left">🚀 Développeur full stack & IA basé à Montréal — applications web de production, APIs et modèles qui tiennent la route en prod.
-💼 Responsable du club informatique à l’Institut Teccart · Expérience en stage capstone : CNN pour l’analyse IRM, APIs Node.js & FastAPI, interface React, temps réel et CI/CD.
-🐍 Fort intérêt pour Python et les APIs modernes (FastAPI), couplées à React, Docker et le cloud.
-🧠 Projets IA appliqués à la santé : imagerie médicale (IRM), pipelines CNN, et plateformes de diagnostic orientées recherche.
-💡 Stack courante : React, Next.js, Node.js, FastAPI, TensorFlow, MongoDB/MySQL selon le projet — du commerce patrimoine aux microservices d’inférence.
-.</p>
-
 ###
+
+<p align="left">
+🚀 Développeur Full Stack & IA basé à Montréal — je conçois des applications web, APIs et modèles IA robustes, conçus pour la production.<br><br>
+
+💼 Responsable du club informatique à l’Institut Teccart, avec une expérience pratique lors d’un stage capstone : développement d’une solution basée sur un modèle CNN pour l’analyse d’IRM, intégration d’APIs (Node.js, FastAPI) et création d’interfaces dynamiques avec React, incluant des systèmes temps réel et CI/CD.<br><br>
+
+🧠 Fort intérêt pour l’intelligence artificielle appliquée, notamment en santé (imagerie médicale, pipelines CNN, plateformes de diagnostic orientées recherche).<br><br>
+
+⚙️ Stack principale : React, Next.js, Node.js, FastAPI, Python, TensorFlow, MongoDB & MySQL, avec une approche orientée architecture scalable, microservices et déploiement cloud (Docker, CI/CD).
+</p>
