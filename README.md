@@ -83,6 +83,11 @@
 
 
 
-<p align="left">🎓 Étudiant en Techniques de l'informatique à l’Institut Teccart.<br>🐍 Passionné par Python et le développement d'API modernes avec FastAPI.<br>🧠 Je crée des projets d'intelligence artificielle appliqués au domaine médical.<br>💡 Je développe des solutions innovantes intégrant React, FastAPI, MongoDB, MySQL et bien plus.<br>🔬 Mes projets incluent la prédiction de maladies cardiaques et la détection de tumeurs cérébrales à partir d’IRM grâce à l’IA.</p>
+<p align="left">🚀 Développeur full stack & IA basé à Montréal — applications web de production, APIs et modèles qui tiennent la route en prod.
+💼 Responsable du club informatique à l’Institut Teccart · Expérience en stage capstone : CNN pour l’analyse IRM, APIs Node.js & FastAPI, interface React, temps réel et CI/CD.
+🐍 Fort intérêt pour Python et les APIs modernes (FastAPI), couplées à React, Docker et le cloud.
+🧠 Projets IA appliqués à la santé : imagerie médicale (IRM), pipelines CNN, et plateformes de diagnostic orientées recherche.
+💡 Stack courante : React, Next.js, Node.js, FastAPI, TensorFlow, MongoDB/MySQL selon le projet — du commerce patrimoine aux microservices d’inférence.
+.</p>
 
 ###
