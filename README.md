@@ -18,10 +18,10 @@
 
 ###
 
-<h1 align="center">Full Stack & AI Engineer | Building Scalable Products with React · FastAPI · Deep Learning</h1>
+<h1 align="center">Full Stack & AI Engineer | React · FastAPI · Deep Learning · Cloud</h1>
 
 <p align="center">
-🚀 Montréal-based developer crafting production-ready web apps, APIs, and AI systems that scale.
+🚀 Montréal-based developer building scalable web applications, APIs, and AI systems for real-world production environments.
 </p>
 
 ###
@@ -59,48 +59,50 @@
 
 ###
 
-## ⚡ About Me (Impact Driven)
+## ⚡ About Me
 
 <p align="left">
-🚀 I design and build scalable digital products combining modern web technologies and artificial intelligence.<br><br>
+🚀 Full Stack & AI Engineer based in Montréal — I build scalable digital products combining modern web technologies and applied artificial intelligence.<br><br>
 
-💼 Full Stack & AI experience across real-world systems: React/Next.js frontends, FastAPI & Node.js APIs, and CNN-based medical imaging pipelines deployed in functional environments.<br><br>
+💼 Experience in full-stack development and AI systems: React/Next.js interfaces, FastAPI & Node.js APIs, and CNN-based medical imaging models integrated into production-like environments.<br><br>
 
-🧠 Focused on applied AI (not theory): computer vision, deep learning pipelines, and intelligent systems integrated into real applications (healthcare, automation, data-driven platforms).<br><br>
+🧠 Focused on applied AI and computer vision: building real-world machine learning pipelines for healthcare, automation, and intelligent systems — not just experimental notebooks.<br><br>
 
-⚙️ Strong engineering mindset: clean architecture, performance optimization, and production deployment using Docker, CI/CD, and cloud platforms (AWS / Azure).
+⚙️ Engineering mindset: clean architecture, performance optimization, and production deployment using Docker, CI/CD pipelines, and cloud platforms (AWS / Azure).
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
-### 🛍️ Makasouk — Digital Heritage E-Commerce Platform
+### 🛍️ Makasouk — E-commerce culturel
+Plateforme e-commerce inspirée du patrimoine algérien (Karakou, Kabyle, Constantine) avec une expérience utilisateur moderne et immersive.
 
-> A premium e-commerce experience inspired by Algerian cultural heritage, blending storytelling, design, and modern commerce.
+**Stack:** TypeScript · React · Next.js · Tailwind CSS · Node.js
 
-- 🎯 Immersive shopping experience (Karakou, Kabyle, Constantine fashion)
-- ⚡ Modern TypeScript + React architecture
-- 🧠 UI focused on trust, storytelling, and brand identity
-- ☁️ Built with scalable frontend + backend structure
+---
 
-**Tech Stack:**  
-`TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Node.js`
+### 🧠 BrainScan AI — Diagnostic médical (CNN)
+Système d’analyse d’IRM basé sur un modèle CNN (4 classes) avec haute précision, orienté vers des cas d’usage médicaux réels.
+
+Pipeline de deep learning pour classification d’images médicales avec intégration API et structure proche production.
+
+**Stack:** Python · TensorFlow · Jupyter · FastAPI · React
 
 ---
 
 ## 🧠 Engineering Focus
 
-- ⚡ Production-ready AI systems (not notebooks)
+- ⚡ Production-ready AI systems
 - 🧩 Scalable full-stack architectures
-- 🔗 API-first design (FastAPI / Node.js)
+- 🔗 API-first development (FastAPI / Node.js)
 - ☁️ Cloud-native deployment (Docker + CI/CD)
-- 📊 Performance-driven development
+- 📊 Performance & reliability driven engineering
 
 ---
 
-## 📫 Let's Build Something Real
+## 📫 Let's Connect
 
 <p align="left">
-I'm open to Full Stack & AI roles in Canada or remote teams focused on scalable and impactful products.
+Open to Full Stack & AI roles in Canada or remote teams building impactful and scalable products.
 </p>
