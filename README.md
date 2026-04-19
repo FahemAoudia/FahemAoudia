@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -18,60 +18,38 @@
 
 ###
 
-<h1 align="center">Salut 👋 ! Je m'appelle Fahem Aoudia et je suis un développeur web et en intelligence artificielle, de Montréal</h1>
+<h1 align="center">Full Stack & AI Engineer | Building Scalable Products with React · FastAPI · Deep Learning</h1>
+
+<p align="center">
+🚀 Montréal-based developer crafting production-ready web apps, APIs, and AI systems that scale.
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahemAoudia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahemAoudia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahemAoudia&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahemAoudia&layout=compact&theme=radical&hide_border=true" height="150" />
 </div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -81,12 +59,48 @@
 
 ###
 
+## ⚡ About Me (Impact Driven)
+
 <p align="left">
-🚀 Développeur Full Stack & IA basé à Montréal — je conçois des applications web, APIs et modèles IA robustes, conçus pour la production.<br><br>
+🚀 I design and build scalable digital products combining modern web technologies and artificial intelligence.<br><br>
 
-💼 Responsable du club informatique à l’Institut Teccart, avec une expérience pratique lors d’un stage capstone : développement d’une solution basée sur un modèle CNN pour l’analyse d’IRM, intégration d’APIs (Node.js, FastAPI) et création d’interfaces dynamiques avec React, incluant des systèmes temps réel et CI/CD.<br><br>
+💼 Full Stack & AI experience across real-world systems: React/Next.js frontends, FastAPI & Node.js APIs, and CNN-based medical imaging pipelines deployed in functional environments.<br><br>
 
-🧠 Fort intérêt pour l’intelligence artificielle appliquée, notamment en santé (imagerie médicale, pipelines CNN, plateformes de diagnostic orientées recherche).<br><br>
+🧠 Focused on applied AI (not theory): computer vision, deep learning pipelines, and intelligent systems integrated into real applications (healthcare, automation, data-driven platforms).<br><br>
 
-⚙️ Stack principale : React, Next.js, Node.js, FastAPI, Python, TensorFlow, MongoDB & MySQL, avec une approche orientée architecture scalable, microservices et déploiement cloud (Docker, CI/CD).
+⚙️ Strong engineering mindset: clean architecture, performance optimization, and production deployment using Docker, CI/CD, and cloud platforms (AWS / Azure).
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🛍️ Makasouk — Digital Heritage E-Commerce Platform
+
+> A premium e-commerce experience inspired by Algerian cultural heritage, blending storytelling, design, and modern commerce.
+
+- 🎯 Immersive shopping experience (Karakou, Kabyle, Constantine fashion)
+- ⚡ Modern TypeScript + React architecture
+- 🧠 UI focused on trust, storytelling, and brand identity
+- ☁️ Built with scalable frontend + backend structure
+
+**Tech Stack:**  
+`TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Node.js`
+
+---
+
+## 🧠 Engineering Focus
+
+- ⚡ Production-ready AI systems (not notebooks)
+- 🧩 Scalable full-stack architectures
+- 🔗 API-first design (FastAPI / Node.js)
+- ☁️ Cloud-native deployment (Docker + CI/CD)
+- 📊 Performance-driven development
+
+---
+
+## 📫 Let's Build Something Real
+
+<p align="left">
+I'm open to Full Stack & AI roles in Canada or remote teams focused on scalable and impactful products.
 </p>
